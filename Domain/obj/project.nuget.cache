@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvDuTwtUjkJ82u5Ss+C9bg0kTYJG1uibxiV1B+z7xH7cSPzoPQx/akSn7mw1NWsTfMhuXYSzlZvAIYWHdx5+NA==",
+  "success": true,
+  "projectFilePath": "D:\\Interview\\Gapstars\\p1-v1-be-dotnet-assignment-master\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChirathJayawardena\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
