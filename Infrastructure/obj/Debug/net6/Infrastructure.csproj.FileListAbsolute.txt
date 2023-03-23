@@ -1,0 +1,17 @@
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\bin\Debug\net6\Infrastructure.deps.json
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\bin\Debug\net6\Infrastructure.runtimeconfig.json
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\bin\Debug\net6\Infrastructure.dll
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\bin\Debug\net6\ref\Infrastructure.dll
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\bin\Debug\net6\Infrastructure.pdb
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\bin\Debug\net6\Domain.dll
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\bin\Debug\net6\Domain.pdb
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.csproj.AssemblyReference.cache
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.AssemblyInfoInputs.cache
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.AssemblyInfo.cs
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.csproj.CopyComplete
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.dll
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\ref\Infrastructure.dll
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.pdb
+D:\Interview\Gapstars\p1-v1-be-dotnet-assignment-master\Infrastructure\obj\Debug\net6\Infrastructure.genruntimeconfig.cache
